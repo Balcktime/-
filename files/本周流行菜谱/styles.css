@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:232px;
+  width:366px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -23,8 +23,8 @@
 #u108 {
   border-width:0px;
   position:absolute;
-  left:-133px;
-  top:44px;
+  left:0px;
+  top:0px;
   width:375px;
   height:647px;
 }
@@ -65,7 +65,7 @@
 #u112 {
   border-width:0px;
   position:absolute;
-  left:-9px;
+  left:1px;
   top:63px;
   width:375px;
   height:585px;
